@@ -1,4 +1,4 @@
-# generator-app [![Build Status](https://secure.travis-ci.org/chmontgomery/generator-app.png?branch=master)](https://travis-ci.org/chmontgomery/generator-app)
+# generator-app
 
 > [Yeoman](http://yeoman.io) generator
 
