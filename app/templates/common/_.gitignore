@@ -4,3 +4,4 @@ node_modules/
 *.orig
 /coverage
 /public
+bundle.result.json

@@ -34,7 +34,8 @@ module.exports = {
         }
       ],
       options: {
-        useMin: ['min']
+        useMin: ['min'],
+        rev: ['min']
       }
     },
     main: {
@@ -43,6 +44,7 @@ module.exports = {
       options: {
         uglify: ['min'],
         minCSS: ['min'],
+        rev: ['min'],
         transforms: {
           styles: styleTransforms
         }
