@@ -6,6 +6,6 @@ readme.md
 .DS_Store
 *.log
 *.orig
-/coverage/
+/target/coverage
 .coveralls.yml
 /bower_components/
